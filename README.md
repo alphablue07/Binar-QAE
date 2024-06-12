@@ -8,4 +8,10 @@ Cinere, Depok</br>
 
 ## About Me
 
-Bachelor of Industrial Engineerin
+Bachelor of Industrial Engineering
+
+## Experiences
+
+Binar Fullstack Web Engineering Certificated
+Binar Quality Assurance Engineer Student
+
