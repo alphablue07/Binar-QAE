@@ -8,7 +8,7 @@ Cinere, Depok</br>
 
 ## About Me
 
-Bachelor of Industrial Engineering
+Saya ganteng banget
 
 ## Experiences
 
